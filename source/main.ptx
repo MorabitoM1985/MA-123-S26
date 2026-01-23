@@ -1,43 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- This is the main course file for ... . It is used to generate all the public facing course materials so those can be hosted online.  -->
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- Include common macros etc: -->
+
   <xi:include href="./docinfo.ptx" />
-  <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
+
   <book>
     <title>Intro to Functions</title>
-
     <subtitle>MA 123: Spring 2026 V2</subtitle>
 
-    <!-- Optional: include frontmatter with author info and date -->
+
     <xi:include href="./frontmatter.ptx" />
 
-    <chapter xml:id="course-documents">
+   
+     <chapter xml:id="course-documents">
       <title>Course Documents</title>
 
-      <!-- Course syllabus -->
-      <xi:include href="./syllabus/syllabus.ptx" />
-      <!-- Other documents could go here, like a schedule, project description, etc. -->
+      <section xml:id="syllabus">
+        <title>Syllabus</title>
+
+        <section>
+          <title>Course Information</title>
+          
+          <p>  <em>Course:</em> MA 123 – Intro to Functions, Section 006 </p>
+          <p>  <em>Meeting Time:</em> Monday &amp; Wednesday, 2:30–4:20  </p>
+          <p> <em>Location:</em> HH 407, Hemenway Hall </p>
+          
+        </section>
+
+        <section>
+          <title>Instructor Information</title>
+          
+           <p> <em>Instructor:</em> Mark Morabito </p>
+          <p> <em>Email:</em> mmorabito1@framingham.edu</p>
+           <p> <em>Office Hours:</em>Thursdays, 3:00–3:50pm (Virtual via Zoom) </p>
+          
+        </section>
+
+        <section>
+          <title>Texts</title>
+          <ul>
+            <li>College Algebra 2e (OpenStax)</li>
+            <li>
+              Atchison &amp; Morabito with Stitz &amp; Zeager and Wallace,
+              <em>College Algebra: Framingham State University</em>
+            </li>
+          </ul>
+        </section>
+
+        <section>
+          <title>Course Goals</title>
+          <p>
+            Students will develop an understanding of mathematical modeling using functions,
+            appreciate the historical development of algebra, and use mathematical theorems
+            as tools for problem solving.
+          </p>
+        </section>
+
+        <section>
+          <title>Assessments</title>
+
+          <p>
+            There will be four major tests. The three highest scores count for 100 points each.
+            The lowest test score will be replaced by the final exam.
+            There are no make-up tests. Plan accordingly.
+          </p>
+
+          <p>
+            There will be at least ten quizzes. The ten highest quiz scores will count for
+            100 points total. No make-up quizzes will be given.
+          </p>
+
+          <p>
+            Homework is completed through
+            <url href="https://www.deltamath.com">DeltaMath</url>.
+            Students are expected to log in early and often.
+          </p>
+        </section>
+
+        <section>
+          <title>Final Exam</title>
+          <p>
+            The final exam is comprehensive and worth 200 points.
+            It will take place during the official final exam period
+            (May 6, 2026). The exam will not be rescheduled.
+          </p>
+        </section>
+
+        <section>
+          <title>Attendance &amp; Participation</title>
+          <p>
+            Students are allowed two absences without penalty. Each additional absence results
+            in a one-point deduction. Participation includes attendance, preparation,
+            discussion, and group work.
+          </p>
+        </section>
+
+        <section>
+          <title>Grading Breakdown</title>
+          <table>
+            <tabular>
+              <row><cell>Top Four Exams</cell><cell>400</cell></row>
+              <row><cell>Top Quizzes</cell><cell>100</cell></row>
+              <row><cell>Online Homework</cell><cell>~100</cell></row>
+              <row><cell>Additional Assignments</cell><cell>~50</cell></row>
+              <row><cell>Participation &amp; Attendance</cell><cell>25</cell></row>
+              <row><cell>Final Exam</cell><cell>200</cell></row>
+              <row><cell><emph>Total</emph></cell><cell><emph>~875</emph></cell></row>
+            </tabular>
+          </table>
+        </section>
+
+        <section>
+          <title>Academic Honesty</title>
+          <p>
+            Academic dishonesty will not be tolerated and will be handled according to
+            Framingham State University policy. This includes plagiarism, cheating,
+            unauthorized collaboration, falsification, and misuse of university resources.
+          </p>
+        </section>
+
+        <section>
+          <title>Important Notice</title>
+          <p>
+            This syllabus is subject to change at any time.
+          </p>
+        </section>
+
+      </section>
     </chapter>
 
+   
+    <!-- notes -->
     <chapter xml:id="course-notes">
       <title>Course Notes</title>
 
       <introduction>
         <p>
-          I am trying to edit this
           The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class and not a substitute for reading the textbook.
+          They are not a substitute for attending class or reading the textbook.
         </p>
       </introduction>
 
       <xi:include href="./notes/week01.ptx"/>
       <xi:include href="./notes/week02.ptx"/>
-      <!-- etc. -->
-
     </chapter>
-
 
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
@@ -48,27 +154,19 @@
         </p>
       </introduction>
 
-      <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
-
-      <!-- Add more xi:include files here to include them in the main course -->
     </chapter>
 
+  
     <chapter xml:id="handouts">
       <title>Handouts</title>
-      <!-- Include handouts -->
-      <!--<xi:include href="./handouts/handout-filename.ptx"/>-->
     </chapter>
 
+ 
+   
     <chapter xml:id="homework">
       <title>Homework</title>
-
-      <!-- Include homework files -->
-      <!--<xi:include href="./homework/homework01.ptx"/>-->
-
     </chapter>
 
-    <!-- Include additional chapters for other categories -->
-
-    </book>
-  </pretext>
+  </book>
+</pretext>
