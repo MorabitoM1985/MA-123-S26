@@ -7,16 +7,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Syllabus",
-  "body": " Syllabus        Course Information  This is the syllabus for course name (MATH xxx, section xxx) for [term] 20xx. It is a [n] credit course.    Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.       Course Overview        Assessments and Grades     "
+  "body": " Syllabus   Course Information   Course: MA 123 – Intro to Functions, Section 006   Meeting Time: Monday & Wednesday, 2:30–4:20   Location: HH 407, Hemenway Hall    Instructor Information   Instructor: Mark Morabito   Email: mmorabito1@framingham.edu   Office Hours: Thursdays, 3:00–3:50pm (Virtual via Zoom)    Texts   College Algebra 2e (OpenStax)  Atchison & Morabito with Stitz & Zeager and Wallace, College Algebra: Framingham State University      Course Goals  Students will develop an understanding of mathematical modeling using functions, appreciate the historical development of algebra, and use mathematical theorems as tools for problem solving.    Assessments  There will be four major tests. The three highest scores count for 100 points each. The lowest test score will be replaced by the final exam. There are no make-up tests. Plan accordingly.  There will be at least ten quizzes. The ten highest quiz scores will count for 100 points total. No make-up quizzes will be given.  Homework is completed through DeltaMath . Students are expected to log in early and often.    Final Exam  The final exam is comprehensive and worth 200 points. It will take place during the official final exam period (May 6, 2026). The exam will not be rescheduled.    Attendance & Participation  Students are allowed two absences without penalty. Each additional absence results in a one-point deduction. Participation includes attendance, preparation, discussion, and group work.    Grading Breakdown    Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875      Academic Honesty  Academic dishonesty will not be tolerated and will be handled according to Framingham State University policy. This includes plagiarism, cheating, unauthorized collaboration, falsification, and misuse of university resources.    Important Notice  This syllabus is subject to change at any time.   "
 },
 {
-  "id": "sec-course-info-2",
+  "id": "syllabus-9-2",
   "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "syllabus.html#syllabus-9-2",
+  "type": "Table",
+  "number": "1",
   "title": "",
-  "body": "course name (MATH xxx, section xxx) "
+  "body": "  Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875   "
 },
 {
   "id": "notes-week-01",
@@ -61,7 +61,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Handouts",
-  "body": " Handouts    "
+  "body": " Handouts  "
 },
 {
   "id": "homework",
@@ -70,7 +70,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "",
   "title": "Homework",
-  "body": " Homework    "
+  "body": " Homework  "
 }
 ]
 
