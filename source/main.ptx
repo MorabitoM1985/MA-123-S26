@@ -6,7 +6,7 @@
 
   <book>
     <title>Intro to Functions</title>
-    <subtitle>MA 123: Spring 2026 V2</subtitle>
+    <subtitle>MA 123: Spring 2026 V3</subtitle>
 
 
     <xi:include href="./frontmatter.ptx" />
@@ -127,6 +127,80 @@
         </section>
 
       </section>
+
+
+      
+<section xml:id="syllabus-quiz">
+  <title>Syllabus Quiz</title>
+
+  <p>
+    <em>Name:</em> _________________________________________
+  </p>
+
+  <p>
+    <em>Score:</em> ____________/10 points
+  </p>
+
+
+  <statement>
+
+    <p>
+      How many quizzes will be counted toward your final grade?
+      <fillin/>
+      <answer><p>10</p></answer>
+    </p>
+
+    <p>
+      What is the total number of points that homework will count toward your final grade?
+      <fillin/>
+      <answer><p>200</p></answer>
+    </p>
+
+    <p>
+      How many exams will be administered in total (not including the final)?
+      <fillin/>
+      <answer><p>4</p></answer>
+    </p>
+
+    <p>
+      What happens to your lowest exam?
+      <fillin/>
+      <answer><p>dropped</p></answer>
+    </p>
+
+    <p>
+      How many points is your final exam worth?
+      <fillin/>
+      <answer><p>200</p></answer>
+    </p>
+
+    <p>
+      You get to make up quizzes and/or exams:
+      <fillin/>
+      <answer><p>false</p></answer>
+    </p>
+
+    <p>
+      How many attendance points do you earn if you’re never absent?
+      <fillin/>
+      <answer><p>50</p></answer>
+    </p>
+
+    <p>
+      How many points is each exam (not including the final) worth?
+      <fillin/>
+      <answer><p>100</p></answer>
+    </p>
+
+    <p>
+      What is the minimum letter grade for Precalculus? (No plus or minus.)
+      <fillin/>
+      <answer><p>C</p></answer>
+    </p>
+
+  </statement>
+
+</section>
     </chapter>
 
    

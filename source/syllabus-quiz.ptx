@@ -1,0 +1,198 @@
+<section xml:id="syllabus-quiz">
+  <title>Syllabus Quiz</title>
+
+  <p>
+    Name:_________________________________________
+  </p>
+
+  <p>
+    Score: ____________/10 points
+  </p>
+
+  <p>
+    <em>Directions:</em> Each answer should only be one word or number.
+    Write it in the blank.
+  </p>
+
+  <!-- Question 1 -->
+  <exercise xml:id="q1">
+    <statement>
+      <p>
+        How many quizzes will be counted toward your final grade?
+        <fillin characters="10" mode="number" width="5"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="10"/>
+        <feedback>Re-read the syllabus carefully.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 2 -->
+  <exercise xml:id="q2">
+    <statement>
+      <p>
+        What is the total number of points that homework will count toward your final grade?
+        <fillin answer="200" mode="number" width="6"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="200"/>
+        <feedback>Check the grading breakdown in the syllabus.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 3 -->
+  <exercise xml:id="q3">
+    <statement>
+      <p>
+        How many exams will be administered in total (not including the final) in this course?
+        <fillin answer="4" mode="number" width="3"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="4"/>
+        <feedback>Double-check the course schedule.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 4 -->
+  <exercise xml:id="q4">
+    <statement>
+      <p>
+        What happens to your lowest exam?
+        <fillin answer="dropped" width="10"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <stringcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <stringcmp value="dropped"/>
+        <feedback>Look at the exam policy section.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 5 -->
+  <exercise xml:id="q5">
+    <statement>
+      <p>
+        How many points is your final exam worth?
+        <fillin answer="200" mode="number" width="6"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="200"/>
+        <feedback>Check the grading section.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 6 (True/False) -->
+  <exercise xml:id="q6">
+    <statement>
+      <p>
+        You get to make up quizzes and/or exams:
+        <fillin answer="false" width="6"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <stringcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <stringcmp value="false"/>
+        <feedback>Review the make-up policy.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 7 -->
+  <exercise xml:id="q7">
+    <statement>
+      <p>
+        How many attendance points do you earn if you’re never absent?
+        <fillin answer="50" mode="number" width="5"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="50"/>
+        <feedback>Check the attendance policy.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 8 -->
+  <exercise xml:id="q8">
+    <statement>
+      <p>
+        How many points are each exam (not including the final) worth?
+        <fillin answer="100" mode="number" width="5"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <numcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <numcmp value="100"/>
+        <feedback>Review the grading breakdown.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+  <!-- Question 9 -->
+  <exercise xml:id="q9">
+    <statement>
+      <p>
+        What is the minimum letter grade for Precalculus?
+        (Hint: there is no plus or minus.)
+        <fillin answer="C" width="3"/>
+      </p>
+    </statement>
+    <evaluation>
+      <test correct="yes">
+        <stringcmp use-answer="yes"/>
+        <feedback>Correct.</feedback>
+      </test>
+      <test>
+        <stringcmp value="C"/>
+        <feedback>Check the grading scale.</feedback>
+      </test>
+    </evaluation>
+  </exercise>
+
+</section>
