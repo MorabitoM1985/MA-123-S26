@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Syllabus",
-  "body": " Syllabus   Course Information   Course: MA 123 – Intro to Functions, Section 006   Meeting Time: Monday & Wednesday, 2:30–4:20   Location: HH 407, Hemenway Hall    Instructor Information   Instructor: Mark Morabito   Email: mmorabito1@framingham.edu   Office Hours: Thursdays, 3:00–3:50pm (Virtual via Zoom)    Texts   College Algebra 2e (OpenStax)  Atchison & Morabito with Stitz & Zeager and Wallace, College Algebra: Framingham State University      Course Goals  Students will develop an understanding of mathematical modeling using functions, appreciate the historical development of algebra, and use mathematical theorems as tools for problem solving.    Assessments  There will be four major tests. The three highest scores count for 100 points each. The lowest test score will be replaced by the final exam. There are no make-up tests. Plan accordingly.  There will be at least ten quizzes. The ten highest quiz scores will count for 100 points total. No make-up quizzes will be given.  Homework is completed through DeltaMath . Students are expected to log in early and often.    Final Exam  The final exam is comprehensive and worth 200 points. It will take place during the official final exam period (May 6, 2026). The exam will not be rescheduled.    Attendance & Participation  Students are allowed two absences without penalty. Each additional absence results in a one-point deduction. Participation includes attendance, preparation, discussion, and group work.    Grading Breakdown    Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875      Academic Honesty  Academic dishonesty will not be tolerated and will be handled according to Framingham State University policy. This includes plagiarism, cheating, unauthorized collaboration, falsification, and misuse of university resources.    Important Notice  This syllabus is subject to change at any time.   "
+  "body": " Syllabus   Course Information   Course: MA 123 – Intro to Functions, Section 006   Meeting Time: Monday & Wednesday, 2:30–4:20   Location: HH 407, Hemenway Hall    Instructor Information   Instructor: Mark Morabito   Email: mmorabito1@framingham.edu   Office Hours: Thursdays, 3:00–3:50pm (Virtual via Zoom)    Texts   College Algebra 2e (OpenStax)  Atchison & Morabito with Stitz & Zeager and Wallace, College Algebra: Framingham State University      Course Goals  Students will develop an understanding of mathematical modeling using functions, appreciate the historical development of algebra, and use mathematical theorems as tools for problem solving.    Assessments  There will be four major tests. The three highest scores count for 100 points each. The lowest test score will be replaced by the final exam. There are no make-up tests. Plan accordingly.  There will be at least ten quizzes. The ten highest quiz scores will count for 100 points total. No make-up quizzes will be given.  Homework is completed through DeltaMath . Students are expected to log in early and often.    Final Exam  The final exam is comprehensive and worth 200 points. It will take place during the official final exam period (May 6, 2026). The exam will not be rescheduled.    Attendance & Participation  Students are allowed two absences without penalty. Each additional absence results in a one-point deduction. Participation includes attendance, preparation, discussion, and group work.    Grading Breakdown    Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875      Academic Honesty  Academic dishonesty will not be tolerated and will be handled according to Framingham State University policy. This includes plagiarism, cheating, unauthorized collaboration, falsification, and misuse of university resources.    Important Notice  This syllabus is subject to change at any time.    Course Policies and Information    Generative AI  Use of Generative AI is prohibited. Do not use it to complete your work. You and your brain improve the more you use it. Also, Generative AI makes mistakes, although it is improving.     Antiracism at FSU  At Framingham State University, faculty, staff, and students work together to sustain a learning, working, and living community free from hate, discrimination, harassment, and intolerance. We recognize the damaging effects of systemic racism—including policies, structures, and historic practices— on the experience and success of communities of color.  Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work. Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share.  As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect. I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences, and supports the realization of everyone’s potential.     Sexual Harassment  Framingham State University is committed to maintaining a safe and healthy learning, living and working environment that is free from all forms of sexual violence, sexual harassment, gender-based harassment, domestic violence, dating violence, stalking and retaliation.  If you or someone you know has experienced any form of sexual or gender-based misconduct, we urge you to visit the SHAPE website for information regarding on-campus and community resources, University policy, contact information for the Title IX Coordinators, confidential and non-confidential reporting options, victim rights, and more.     Notice of Non-Discrimination and Diversity  Framingham State University is committed to a policy of non-discrimination, equal opportunity, diversity, and affirmative action. The University is dedicated to providing educational, working, and living environments that value the diverse backgrounds of all people.  Furthermore, the Massachusetts Civil Rights Act (MCRA, M.G.L. c. 12, §§ 11H, 11I, 11J) protects the rights of all residents of and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights.  The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.     Syllabus Changes  This syllabus is subject to change at any time. All changes will be communicated to students as soon as possible.     Frequently Asked Questions  How can I get extra help learning the material?  I encourage you to bring questions to class. Feel free to attend my office hours. Feel free to drop in to the fourth flooor Hemenway Hall math tutoring center. Also, CASA provides math tutoring and I cannot recommend it enough.  What if I need academic accommodations?  Any student eligible for academic accommodation due to a disability should provide Documentation Confirmation from Disability\/Access Services within the first two weeks of class. Disability\/Access Services is located in CASA. Email disabilityservices@framingham.edu for support.  What if I am struggling with food or housing insecurity?  Visit the Rams Resource Center in West Hall 105 for non-perishable food items and toiletries. Students in need can also contact the Single Point of Contact staff or the Dean of Students Office for assistance.  What if I need a letter of recommendation?  I routinely write letters of recommendation for students. Please email me at least two weeks in advance.  What other help is available on campus?  Health Center (Foster Hall), Counseling Center (Foster Hall), Dean of Students (McCarthy 504), and Student Support Resources are all available.     Important Dates  Tuesday, Jan 27 — Last Day to Add\/Drop a Course  Monday, Feb 09 — Objectives Quiz 1  Monday, Feb 16 — Presidents’ Day (No Classes)  Monday, Mar 02 — Objectives Quiz 2  March 14–March 22 — Spring Vacation (No Classes)  Thursday, Mar 26 — Midterm Exam (Part 1)  Friday, Mar 27 — Midterm Exam (Part 2)  Friday, Apr 17 — Objectives Quiz 3  Monday, Apr 20 — Patriots’ Day (No Classes)  Friday, Apr 24 — Last Day to Withdraw \/ Credit-No Credit Deadline  Thursday, May 07 — Objectives Quiz 4  Friday, May 08 — Semester Classes End  Thursday, May 14 — Final Exam (8:00am–11:00am)    "
 },
 {
   "id": "syllabus-9-2",
@@ -26,60 +26,6 @@ var ptx_lunr_docs = [
   "number": "",
   "title": "Syllabus Quiz",
   "body": " Syllabus Quiz   Name: _________________________________________   Score: ____________\/10 points   How many quizzes will be counted toward your final grade?  10   What is the total number of points that homework will count toward your final grade?  200   How many exams will be administered in total (not including the final)?  4   What happens to your lowest exam?  dropped   How many points is your final exam worth?  200   You get to make up quizzes and\/or exams:  false   How many attendance points do you earn if you’re never absent?  50   How many points is each exam (not including the final) worth?  100   What is the minimum letter grade for Precalculus? (No plus or minus.)  C    "
-},
-{
-  "id": "notes-week-01",
-  "level": "1",
-  "url": "notes-week-01.html",
-  "type": "Section",
-  "number": "",
-  "title": "Week 1",
-  "body": " Week 1   This is an outline of the topics we covered in the first week of class.     Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
-},
-{
-  "id": "notes-week-02",
-  "level": "1",
-  "url": "notes-week-02.html",
-  "type": "Section",
-  "number": "",
-  "title": "Week 2",
-  "body": " Week 2   Monday      Wednesday      Friday     "
-},
-{
-  "id": "activity-01-intro-activity",
-  "level": "1",
-  "url": "activity-01-intro-activity.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Introduction Activity",
-  "body": " Introduction Activity    This is the introduction to the activity.      This is the first exercise.    "
-},
-{
-  "id": "activity-01-intro-activity-3",
-  "level": "2",
-  "url": "activity-01-intro-activity.html#activity-01-intro-activity-3",
-  "type": "Worksheet Exercise",
-  "number": "1",
-  "title": "",
-  "body": "  This is the first exercise.   "
-},
-{
-  "id": "handouts",
-  "level": "1",
-  "url": "handouts.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Handouts",
-  "body": " Handouts  "
-},
-{
-  "id": "homework",
-  "level": "1",
-  "url": "homework.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Homework",
-  "body": " Homework  "
 }
 ]
 
