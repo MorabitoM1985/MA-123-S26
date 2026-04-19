@@ -6,7 +6,7 @@
 
   <book>
     <title>Intro to Functions</title>
-    <subtitle>MA 123: Spring 2026 V3</subtitle>
+    <subtitle>MA 123: Spring 2026</subtitle>
 
 
     <xi:include href="./frontmatter.ptx" />
@@ -125,6 +125,174 @@
             This syllabus is subject to change at any time.
           </p>
         </section>
+       
+      <section xml:id="course-policies">
+  <title>Course Policies and Information</title>
+
+  <!-- ===================== -->
+  <subsection xml:id="ai-policy">
+    <title>Generative AI</title>
+
+    <p>
+      Use of Generative AI is prohibited. Do not use it to complete your work. You and your brain improve the more you use it. Also, Generative AI makes mistakes, although it is improving.
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="antiracism">
+    <title>Antiracism at FSU</title>
+
+    <p>
+      At Framingham State University, faculty, staff, and students work together to sustain a learning, working,
+      and living community free from hate, discrimination, harassment, and intolerance.
+      We recognize the damaging effects of systemic racism—including policies, structures, and historic practices—
+      on the experience and success of communities of color.
+    </p>
+
+    <p>
+      Coming from different backgrounds and different levels of privilege, we can all affirm and engage in antiracist work.
+      Diversity of voices, and of minds, strengthens our ability to solve problems and to ask and answer questions about the world we share.
+    </p>
+
+    <p>
+      As your instructor, I commit to upholding community values of inclusion, civility, accessibility, and mutual respect.
+      I expect this class to commit to creating a community that affirms and welcomes all persons from diverse backgrounds and experiences,
+      and supports the realization of everyone’s potential.
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="sexual-harassment">
+    <title>Sexual Harassment</title>
+
+    <p>
+      Framingham State University is committed to maintaining a safe and healthy learning, living and working environment
+      that is free from all forms of sexual violence, sexual harassment, gender-based harassment, domestic violence,
+      dating violence, stalking and retaliation.
+    </p>
+
+    <p>
+      If you or someone you know has experienced any form of sexual or gender-based misconduct, we urge you to visit the SHAPE website
+      for information regarding on-campus and community resources, University policy, contact information for the Title IX Coordinators,
+      confidential and non-confidential reporting options, victim rights, and more.
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="non-discrimination">
+    <title>Notice of Non-Discrimination and Diversity</title>
+
+    <p>
+      Framingham State University is committed to a policy of non-discrimination, equal opportunity, diversity, and affirmative action.
+      The University is dedicated to providing educational, working, and living environments that value the diverse backgrounds of all people.
+    </p>
+
+    <p>
+      Furthermore, the Massachusetts Civil Rights Act (MCRA, M.G.L. c. 12, §§ 11H, 11I, 11J) protects the rights of all residents of
+      and visitors to Massachusetts to be free from bias-motivated threats, intimidation, and coercion that interfere with their civil rights.
+    </p>
+
+    <p>
+      The MCRA protects the right to attend school, live peacefully, and enjoy other basic rights.
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="syllabus-changes">
+    <title>Syllabus Changes</title>
+
+    <p>
+      This syllabus is subject to change at any time. All changes will be communicated to students as soon as possible.
+      
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="faq">
+    <title>Frequently Asked Questions</title>
+
+    <p><strong>How can I get extra help learning the material?</strong></p>
+    <p>
+      I encourage you to bring questions to class. Feel free to attend my office hours.
+      Feel free to drop in to the fourth flooor Hemenway Hall math tutoring center.
+      Also, CASA provides math tutoring and I cannot recommend it enough. 
+    </p>
+
+    <p><strong>What if I need academic accommodations?</strong></p>
+    <p>
+      Any student eligible for academic accommodation due to a disability should provide Documentation Confirmation
+      from Disability/Access Services within the first two weeks of class.
+      Disability/Access Services is located in CASA. Email disabilityservices@framingham.edu for support.
+    </p>
+
+    <p><strong>What if I am struggling with food or housing insecurity?</strong></p>
+    <p>
+      Visit the Rams Resource Center in West Hall 105 for non-perishable food items and toiletries.
+      Students in need can also contact the Single Point of Contact staff or the Dean of Students Office for assistance.
+    </p>
+
+    <p><strong>What if I need a letter of recommendation?</strong></p>
+    <p>
+      I routinely write letters of recommendation for students. Please email me at least two weeks in advance.
+    </p>
+
+    <p><strong>What other help is available on campus?</strong></p>
+    <p>
+      Health Center (Foster Hall), Counseling Center (Foster Hall),
+      Dean of Students (McCarthy 504), and Student Support Resources are all available.
+    </p>
+  </subsection>
+
+  <!-- ===================== -->
+  <subsection xml:id="important-dates">
+    <title>Important Dates</title>
+
+    <p>
+      Tuesday, Jan 27 — Last Day to Add/Drop a Course
+    </p>
+    <p>
+      Monday, Feb 09 — Objectives Quiz 1
+    </p>
+    <p>
+      Monday, Feb 16 — Presidents’ Day (No Classes)
+    </p>
+    <p>
+      Monday, Mar 02 — Objectives Quiz 2
+    </p>
+    <p>
+      March 14–March 22 — Spring Vacation (No Classes)
+    </p>
+    <p>
+      Thursday, Mar 26 — Midterm Exam (Part 1)
+    </p>
+    <p>
+      Friday, Mar 27 — Midterm Exam (Part 2)
+    </p>
+    <p>
+      Friday, Apr 17 — Objectives Quiz 3
+    </p>
+    <p>
+      Monday, Apr 20 — Patriots’ Day (No Classes)
+    </p>
+    <p>
+      Friday, Apr 24 — Last Day to Withdraw / Credit-No Credit Deadline
+    </p>
+    <p>
+      Thursday, May 07 — Objectives Quiz 4
+    </p>
+    <p>
+      Friday, May 08 — Semester Classes End
+    </p>
+    <p>
+      Thursday, May 14 — Final Exam (8:00am–11:00am)
+    </p>
+
+  </subsection>
+
+</section>
+
+
+
 
       </section>
 
@@ -204,43 +372,6 @@
     </chapter>
 
    
-    <!-- notes -->
-    <chapter xml:id="course-notes">
-      <title>Course Notes</title>
-
-      <introduction>
-        <p>
-          The following notes are intended to remind you what we covered each week.
-          They are not a substitute for attending class or reading the textbook.
-        </p>
-      </introduction>
-
-      <xi:include href="./notes/week01.ptx"/>
-      <xi:include href="./notes/week02.ptx"/>
-    </chapter>
-
-    <chapter xml:id="activities">
-      <title>In-Class Activities</title>
-
-      <introduction>
-        <p>
-          These are copies of the in-class activities distributed during the semester.
-        </p>
-      </introduction>
-
-      <xi:include href="./activities/01-intro-activity.ptx"/>
-    </chapter>
-
-  
-    <chapter xml:id="handouts">
-      <title>Handouts</title>
-    </chapter>
-
- 
-   
-    <chapter xml:id="homework">
-      <title>Homework</title>
-    </chapter>
 
   </book>
 </pretext>
