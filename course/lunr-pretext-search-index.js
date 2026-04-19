@@ -19,6 +19,15 @@ var ptx_lunr_docs = [
   "body": "  Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875   "
 },
 {
+  "id": "syllabus-quiz",
+  "level": "1",
+  "url": "syllabus-quiz.html",
+  "type": "Section",
+  "number": "",
+  "title": "Syllabus Quiz",
+  "body": " Syllabus Quiz   Name: _________________________________________   Score: ____________\/10 points   How many quizzes will be counted toward your final grade?  10   What is the total number of points that homework will count toward your final grade?  200   How many exams will be administered in total (not including the final)?  4   What happens to your lowest exam?  dropped   How many points is your final exam worth?  200   You get to make up quizzes and\/or exams:  false   How many attendance points do you earn if you’re never absent?  50   How many points is each exam (not including the final) worth?  100   What is the minimum letter grade for Precalculus? (No plus or minus.)  C    "
+},
+{
   "id": "notes-week-01",
   "level": "1",
   "url": "notes-week-01.html",
