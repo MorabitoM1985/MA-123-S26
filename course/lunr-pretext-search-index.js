@@ -19,6 +19,123 @@ var ptx_lunr_docs = [
   "body": "  Top Four Exams 400  Top Quizzes 100  Online Homework ~100  Additional Assignments ~50  Participation & Attendance 25  Final Exam 200  Total ~875   "
 },
 {
+  "id": "sample-exam",
+  "level": "1",
+  "url": "sample-exam.html",
+  "type": "Section",
+  "number": "",
+  "title": "Practice Exam",
+  "body": " Practice Exam    Create a table with at least two points. Then state the domain , range , and the equation of the horizontal asymptote .     NOTE: You MUST make your graph on a separate paper. Create a table with at least 3 points:     Create a table with at least two points. Then state the domain , range , and vertical asymptote . You will make your graph on a separate paper.      Rewrite each expression using exponential form.            Evaluate without a calculator:           Simplify using the properties of exponents .                    Rewrite each equation using the other form.                  Evaluate each logarithm.                     Solve each exponential equation.            Solve each logarithmic equation.            Solve each logarithmic equation after using log properties to write as a single logarithm.           "
+},
+{
+  "id": "sample-exam-2-1",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-1",
+  "type": "Exercise",
+  "number": "1",
+  "title": "",
+  "body": " Create a table with at least two points. Then state the domain , range , and the equation of the horizontal asymptote .   "
+},
+{
+  "id": "sample-exam-2-2",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-2",
+  "type": "Exercise",
+  "number": "2",
+  "title": "",
+  "body": " NOTE: You MUST make your graph on a separate paper. Create a table with at least 3 points:   "
+},
+{
+  "id": "sample-exam-2-3",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-3",
+  "type": "Exercise",
+  "number": "3",
+  "title": "",
+  "body": " Create a table with at least two points. Then state the domain , range , and vertical asymptote . You will make your graph on a separate paper.   "
+},
+{
+  "id": "sample-exam-2-4",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-4",
+  "type": "Exercise",
+  "number": "4",
+  "title": "",
+  "body": "  Rewrite each expression using exponential form.         "
+},
+{
+  "id": "sample-exam-2-5",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-5",
+  "type": "Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  Evaluate without a calculator:         "
+},
+{
+  "id": "sample-exam-2-6",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-6",
+  "type": "Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Simplify using the properties of exponents .                 "
+},
+{
+  "id": "sample-exam-2-7",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-7",
+  "type": "Exercise",
+  "number": "7",
+  "title": "",
+  "body": "  Rewrite each equation using the other form.               "
+},
+{
+  "id": "sample-exam-2-8",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-8",
+  "type": "Exercise",
+  "number": "8",
+  "title": "",
+  "body": "  Evaluate each logarithm.                  "
+},
+{
+  "id": "sample-exam-2-9",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-9",
+  "type": "Exercise",
+  "number": "9",
+  "title": "",
+  "body": "  Solve each exponential equation.         "
+},
+{
+  "id": "sample-exam-2-10",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-10",
+  "type": "Exercise",
+  "number": "10",
+  "title": "",
+  "body": "  Solve each logarithmic equation.         "
+},
+{
+  "id": "sample-exam-2-11",
+  "level": "2",
+  "url": "sample-exam.html#sample-exam-2-11",
+  "type": "Exercise",
+  "number": "11",
+  "title": "",
+  "body": "  Solve each logarithmic equation after using log properties to write as a single logarithm.         "
+},
+{
+  "id": "nace-competencies",
+  "level": "1",
+  "url": "nace-competencies.html",
+  "type": "Section",
+  "number": "",
+  "title": "NACE Career Readiness Competencies",
+  "body": " NACE Career Readiness Competencies  The National Association of Colleges and Employers (NACE) outlines eight career readiness competencies that are considered key to ensuring successful entrance into the workforce.  The eight competencies are defined at the following site: NACE Career Readiness Competencies .  Throughout the semester, course discussion, assignments, assessments, and additional activities will touch upon several of the NACE competencies to varying degrees, including Communication , Critical Thinking , Leadership , Professionalism , and Technology .  More information regarding how a specific competency is addressed will be included on select assignments.  "
+},
+{
   "id": "syllabus-quiz",
   "level": "1",
   "url": "syllabus-quiz.html",
