@@ -296,8 +296,191 @@
 
       </section>
 
+<section xml:id="sample-exam">
+  <title>Practice Exam </title>
+  <exercises>
+  <exercise>
+    <statement>
+      Create a table with at least two points. Then state the <em>domain</em>, <em>range</em>, and the equation of the <em>horizontal asymptote</em>.
+      <me>f(x) = 2^{x-1} + 3</me>
+    </statement>
+  </exercise>
 
+  <exercise>
+    <statement>
+      NOTE: You MUST make your graph on a separate paper. Create a table with at least 3 points:
+      <me>g(x) = \log_2(x)</me>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      Create a table with at least two points. Then state the <em>domain</em>, <em>range</em>, and <em>vertical asymptote</em>. You will make your graph on a separate paper.
+      <me>g(x) = \log_3(x-4) + 2</me>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>Rewrite each expression using exponential form. <me>f(x) = 2^{x-1} + 3</me></p>
+    
+    <task>
+      <m>\log_2 16 = x</m>
+    </task>
+    <task>
+      <m>\log_5\left(\frac{1}{125}\right) = x</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+     <p> Evaluate without a calculator:</p>
+  
+    <task>
+      <m>\log_4 64</m>
+    </task>
+    <task>
+      <m>\log_{10} 0.01</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      Simplify using the <em>properties of exponents</em>.
+    
+    <task>
+      <m>x^3 \cdot x^5</m>
+    </task>
+    <task>
+      <m>\frac{a^9}{a^4}</m>
+    </task>
+    <task>
+      <m>(2x^3)^4</m>
+    </task>
+    <task>
+      <m>(x^2y^3)^2</m>
+    </task>
+    <task>
+      <m>\frac{5^6}{5^{-2}}</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+     <p> Rewrite each equation using the other form.</p>
+   
+    <task>
+      <m>3^4 = 81</m>
+    </task>
+    <task>
+      <m>\log_2 16 = 4</m>
+    </task>
+    <task>
+      <m>\log_5 125 = 3</m>
+    </task>
+    <task>
+      <m>10^2 = 100</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>Evaluate each logarithm.</p>
+    
+    <task>
+      <m>\log_{10} 1000</m>
+    </task>
+    <task>
+      <m>\log_2 32</m>
+    </task>
+    <task>
+      <m>\log_3 81</m>
+    </task>
+    <task>
+      <m>\log_4 16</m>
+    </task>
+    <task>
+      <m>\log_5\left(\frac{1}{25}\right)</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>Solve each exponential equation.</p>
+   
+    <task>
+      <m>2^x = 16</m>
+    </task>
+    <task>
+      <m>5^{x-1} = 25</m>
+    </task>
+     </statement> 
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>Solve each logarithmic equation.</p>
+    <task>
+      <m>\log_2(x) = 5</m>
+    </task>
+    <task>
+      <m>\log(x-3) = 2</m>
+    </task>
+    </statement>
+  </exercise>
+
+  <exercise>
+    <statement>
+      <p>Solve each logarithmic equation after using log properties to write as a single logarithm.</p>
+    
+    <task>
+      <m>\log_2(x) + \log_2(5) = 3</m>
+    </task>
+    <task>
+      <m>\log(x-3) - \log(4) = 1</m>
+    </task>
+    </statement>
+  </exercise>
+
+</exercises>
+</section>
       
+<section xml:id="nace-competencies">
+  <title>NACE Career Readiness Competencies</title>
+
+  <p>
+    The <em>National Association of Colleges and Employers (NACE)</em> outlines eight career readiness competencies that are considered key to ensuring successful entrance into the workforce.
+  </p>
+
+  <p>
+    The eight competencies are defined at the following site:
+    <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">
+      NACE Career Readiness Competencies
+    </url>.
+  </p>
+
+  
+
+  <p>
+    Throughout the semester, course discussion, assignments, assessments, and additional activities will touch upon several of the NACE competencies to varying degrees, including <em>Communication</em>, <em>Critical Thinking</em>, <em>Leadership</em>, <em>Professionalism</em>, and <em>Technology</em>.
+  </p>
+
+  <p>
+    More information regarding how a specific competency is addressed will be included on select assignments.
+  </p>
+
+</section>
+
+
+
+
+
+
 <section xml:id="syllabus-quiz">
   <title>Syllabus Quiz</title>
 
